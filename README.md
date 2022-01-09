@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Edna Eze
 
-- Thanks for visiting my GitHub portfolio! I am self taught Data Scientist and Machine Learing Enthusiast
+- Thanks for visiting my GitHub portfolio! I am a self taught Data Scientistand Machine Learning Enthusiast
 
 📫 How to reach me
 - https://www.linkedin.com/in/edna-eze-b305731a5
