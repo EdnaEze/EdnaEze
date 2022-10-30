@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Edna Eze
 
-- Thanks for visiting my GitHub portfolio! I am a self taught Data Scientist and Machine Learning Enthusiast
+- Thanks for visiting my GitHub portfolio! I am a Data Science student at University of Sussex.
 
 📫 How to reach me
 - www.linkedin.com/in/EdnaEze
